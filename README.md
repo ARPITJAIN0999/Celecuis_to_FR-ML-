@@ -1,1 +1,1 @@
-# Celcius to FR
+# Celsius to FR
